@@ -7,6 +7,7 @@ Create a simple calendar application that allows a user to save events for each 
 Used the [Moment.js](https://momentjs.com/) library to work with date and time. 
 
 `localStorage` is used to store data. 
+ 
 
 ## Installation
 
@@ -23,6 +24,9 @@ Used the [Moment.js](https://momentjs.com/) library to work with date and time.
 * Past: ![#d3d3d3](https://via.placeholder.com/15/d3d3d3/000000?text=+)  Grey
 * Present: ![#ff6961](https://via.placeholder.com/15/ff6961/000000?text=+) Red
 * Future: ![#77dd77](https://via.placeholder.com/15/77dd77/000000?text=+) Green
+
+- Users can type in their tasks or notes in the colored columns and the data will be stored. 
+- When users reload or open the browser again, the saved tasks/notes will be presented. 
 
   
 ## Features
