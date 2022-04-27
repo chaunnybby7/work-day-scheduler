@@ -48,8 +48,8 @@ Or go to <a href="https://drive.google.com/file/d/1t3STbeKIIGa9zWuep1xmDfY0eJ7uT
 
 ## Websites
 
-* [Github](https://github.com/chaunnybby7/work-day-scheduler)
-* [Deployed](https://chaunnybby7.github.io/work-day-scheduler/)
+* [Github Repo](https://github.com/chaunnybby7/work-day-scheduler)
+* [Deployed Link](https://chaunnybby7.github.io/work-day-scheduler/)
 
 ## License
 
