@@ -2,6 +2,9 @@
 
 ![Top Language](https://img.shields.io/github/languages/top/chaunnybby7/weather-dashboard)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 Used the [Moment.js](https://momentjs.com/) library to work with date and time. 
@@ -40,12 +43,13 @@ Used the [Moment.js](https://momentjs.com/) library to work with date and time.
 
 ## Demo
 
-![Work Day Scheduler Demo]()
+
+Or go to <a href="https://drive.google.com/file/d/1t3STbeKIIGa9zWuep1xmDfY0eJ7uT7dI/view">Work Day Scheduler</a>
 
 ## Websites
 
-* [Github](https://github.com/chaunnybby7/weather-dashboard)
-* [Deployed](https://chaunnybby7.github.io/weather-dashboard/)
+* [Github](https://github.com/chaunnybby7/work-day-scheduler)
+* [Deployed](https://chaunnybby7.github.io/work-day-scheduler/)
 
 ## License
 
